@@ -7,7 +7,7 @@ The Atlas builds on several key observational and model simulated datasets made 
 The observational datasets used in the Atlas are described in Table Atlas.SM.15. This repository contains information derived from the [W5E5](https://doi.org/10.5880/pik.2019.023) (WFDE5 over land merged with ERA5 over the ocean).
 
 ## Climate Change projections (CMIP6, CMIP5 and CORDEX)
-CMIP and CORDEX datasets were obtained from the Earth System Grid Federation, [ESGF](https://esgf-data.dkrz.de/projects/esgf-dkrz/) [Cinquini et al. 2014](https://doi.org/10.1016/j.future.2013.07.002). An inventory of the data sources of the model simulations used for the different experiments and scenarios is included here, indicating the availability of the different variables as well as auxiliary fixed fields, such as the land/sea mask (sftlf). The following documents provide a full overview of the simulations available: 
+CMIP and CORDEX datasets were obtained from the Earth System Grid Federation, [ESGF](https://esgf-data.dkrz.de/projects/esgf-dkrz/) ([Cinquini et al. 2014](https://doi.org/10.1016/j.future.2013.07.002)). An inventory of the data sources of the model simulations used for the different experiments and scenarios is included here, indicating the availability of the different variables as well as auxiliary fixed fields, such as the land/sea mask (sftlf). The following documents provide a full overview of the simulations available: 
 
  * [CMIP5_simulations_ATLAS.xlxs](CMIP5_simulations_ATLAS.xlxs)
  * [CMIP6_simulations_ATLAS.xlxs](CMIP6_simulations_ATLAS.xlxs)
