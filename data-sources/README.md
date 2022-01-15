@@ -1,13 +1,13 @@
 # Data sources used in the Atlas
 
-The Atlas builds on several key observational and model simulated datasets made publicly available by different institutions and modeling centers, in some cases resulting from international collaborations such as [CMIP](https://www.wcrp-climate.org/wgcm-cmip) and [CORDEX](https://cordex.org). It also includes some datasets used in different chapters of AR6 WGI report. 
+The Atlas builds on several key observational and model simulated datasets made publicly available by different institutions and modeling centers, in some cases resulting from international collaborations such as [CMIP](https://www.wcrp-climate.org/wgcm-cmip) and [CORDEX](https://cordex.org). It also includes some datasets produced and used in different chapters of AR6 WGI report.
 
 ## Observations
 
 The observational datasets used in the Atlas are described in Table Atlas.SM.15. This repository contains information derived from the [W5E5](https://doi.org/10.5880/pik.2019.023) (WFDE5 over land merged with ERA5 over the ocean).
 
 ## Climate Change projections (CMIP6, CMIP5 and CORDEX)
-An inventory of the data sources of the model simulations used for the different experiments and scenarios is included here, indicating the availability of the different variables as well as auxiliary fixed fields, such as the land/sea mask (sftlf). The following documents provide a full overview of the simulations available: 
+CMIP and CORDEX datasets were obtained from the Earth System Grid Federation, [ESGF](https://esgf-data.dkrz.de/projects/esgf-dkrz/) [Cinquini et al. 2014](https://doi.org/10.1016/j.future.2013.07.002). An inventory of the data sources of the model simulations used for the different experiments and scenarios is included here, indicating the availability of the different variables as well as auxiliary fixed fields, such as the land/sea mask (sftlf). The following documents provide a full overview of the simulations available: 
 
  * [CMIP5_simulations_ATLAS.xlxs](CMIP5_simulations_ATLAS.xlxs)
  * [CMIP6_simulations_ATLAS.xlxs](CMIP6_simulations_ATLAS.xlxs)
@@ -24,7 +24,6 @@ README files in the different folders provide handle and/or ESGF search links po
 
 
 Broadly speaking, throughout this repository the term CMIP6 has been used mostly in reference to  the Scenario Model Intercomparison (ScenarioMIP). However, please note that other CMIP6-Endorsed MIPs are also included here, namely CORDEX (Coordinated Regional Climate Downscaling Experiment) and PMIP (Palaeoclimate Modelling Intercomparison Project).
-https://doi.org/10.5194/gmd-11-3659-2018
 
 ## Paleoclimate simulations
 
