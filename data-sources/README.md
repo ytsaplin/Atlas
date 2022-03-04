@@ -2,7 +2,7 @@
 
 The Atlas builds on several key observational and model simulated datasets made publicly available by different institutions and modeling centers, in some cases resulting from international collaborations such as [CMIP](https://www.wcrp-climate.org/wgcm-cmip) and [CORDEX](https://cordex.org). It also includes some datasets produced and used in different chapters of AR6 WGI report.
 
-We acknowledge all institutions and modeling centers for making the data publicly available. 
+We acknowledge all institutions and modeling centers for making the data publicly available (see [license](../LICENSE.md)). 
 
 ## Observations
 
@@ -43,7 +43,4 @@ The [Interactive Atlas](http://interactive-atlas.ipcc.ch) also includes relevant
 Historical annual gridded population data for the period 1861-2005 is based on the HYDE3.2 database [Klein Goldewijk et al., 2017](https://doi.org/10.5194/essd-9-927-2017). Source: [ISIMIP2b](https://www.isimip.org/gettingstarted/details/31/). Annual gridded population data for the period 2006-2100 and for the different SSPs (1-5) is based on the population projections described in [Jones & O’Neill (2016)](http://doi.org/10.1088/1748-9326/11/8/084003). Source: [ISIMIP2b](https://www.isimip.org/gettingstarted/details/62/) annual values linearly interpolated from the original decadal population data.
 
 ### Anthropogenic CO2 emissions
-
-
-
 
