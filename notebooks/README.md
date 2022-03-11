@@ -12,6 +12,7 @@ bias-adjustment         | [X](./bias-adjustment_R.ipynb)           |
 CORDEX-overlaps         |                                          | [X](./CORDEX-overlaps_Python.ipynb)
 GeoTIFF-post-processing | [X](./GeoTIFF-post-processing_R.ipynb)   |
 global-warming-levels   | [X](./global-warming-levels_R.ipynb)     |
+GWL-plot                |                                          | [X](./GWL-plot_Python.ipynb)
 hatching-uncertainty    | [X](./hatching-uncertainty_R.ipynb)      |
 linear-trends           | [X](./linear-trends_R.ipynb)             |
 reference-grids         | [X](./reference-grids_R.ipynb)           | 
