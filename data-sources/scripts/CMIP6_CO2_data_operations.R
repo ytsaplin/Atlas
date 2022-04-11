@@ -5,9 +5,9 @@
 # This work is licensed under a Creative Commons Attribution 4.0 International
 # License (CC BY 4.0 - http://creativecommons.org/licenses/by/4.0)
 
-#' @title Boxplots and scatterplots of temperature and precipitation changes
+#' @title Script for getting total CO2 emissions
 #' @description This script creates annual data from the CO2 data provided by Chp.6
-#' It performs de following operations:
+#' (se folder data-sources). It performs de following operations:
 #'  - Converts monthly data (units: "kg m-2 s-1") to yearly data (units : "kg m-2 yr-1")
 #'  - Sums emissions from all sources and atmospheric levels to get the TOTAL CO2
 #' @details The result is a NetCDF of the TOTAL CO2 for each of the years of the following decadal 
